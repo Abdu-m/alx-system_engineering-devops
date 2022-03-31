@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+wrx,ug-wrx
+chmod o=wrx
